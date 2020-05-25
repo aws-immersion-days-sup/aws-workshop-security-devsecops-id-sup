@@ -9,7 +9,7 @@ If you are at an AWS Sponsored event, skip down to the Build Phase.
 
 If you are using your own AWS account follow these steps:
 
-!!! info "Download or Clone: <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup" target="_blank">https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup</a href>"
+!!! info !!! "Download or Clone: <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup" target="_blank">https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup</a>
 
 1. Log in with an Adminstrator level account
 2. Create an s3 bucket in the eu-west-1 Ireland region.
