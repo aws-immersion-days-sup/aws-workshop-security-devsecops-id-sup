@@ -3,11 +3,7 @@
 If you are doing this workshop at an event, you will be provided with either an AWS account or a hash key for event engine. Please raise your hand and flag down a workshop facilitator for assistance on any issues during the lab.
 
 
-## Are you using your own AWS account or given one at a sponsored event?
-
-If you are at an AWS Sponsored event, skip down to the Build Phase.
-
-If you are using your own AWS account follow these steps:
+## Setup the account
 
 !!! info !!! "Download or Clone: <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup" target="_blank">https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup</a>
 
