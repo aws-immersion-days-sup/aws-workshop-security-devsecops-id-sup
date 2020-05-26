@@ -36,7 +36,4 @@ In this module, as part of security governance, all s3 buckets must have s3 vers
     6.	Select Save the newly-edited pipeline. You must check the “No resource updates needed for this source action change” option on the pipeline save pop-up window. 
 11.	Your new Lambda function is now integrated into your pipeline.
 
-**Proceed to the next module to test your Lambda function.**
-
-
-!!! question "What other things can you look for in an AWS Cloudformation template which you can create a security automation?"
+**Proceed to the <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup/blob/master/docs/06-s3-versioning.md" target="_blank">next module</a> to test your Lambda function.**

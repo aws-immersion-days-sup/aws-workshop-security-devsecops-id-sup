@@ -5,7 +5,7 @@ If you are doing this workshop at an event, you will be provided with either an 
 
 ## Setup the account
 
-!!! info !!! "Download or Clone: <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup" target="_blank">https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup</a>
+Download or Clone: <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup" target="_blank">https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup</a>
 
 1. Log in with an Adminstrator level account
 2. Create an s3 bucket in the eu-west-1 Ireland region.
@@ -33,4 +33,4 @@ Your environment is now built with a basic pipeline using s3 as the source repos
 
 ![Pipeline](./images/01-pipeline.png)
 
-After you have successfully setup your environment, you can proceed to the next module.
+After you have successfully setup your environment, you can proceed to the <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup/blob/master/docs/02-first-pipeline-error.md" target="_blank">next module</a>.

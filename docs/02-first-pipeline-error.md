@@ -28,3 +28,4 @@ It looks like the pipeline has failed at the "Static Code Analysis" stage.
 
 (Optional) Feel free to click on some **Details** icons to look into what happened at each stage in more detail.  CFNParsing is a lambda function is a script which does various checks for security compliance.
 
+Now you can proceed to the <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup/blob/master/docs/03-No-AWS-Secrets.md" target="_blank">next module</a>.

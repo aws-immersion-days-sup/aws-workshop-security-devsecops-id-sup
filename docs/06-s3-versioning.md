@@ -21,6 +21,13 @@ Many organizations utilize s3 extensively.  It is important that the s3 buckets 
 
 !!! info "Hint: <a href="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-s3-bucket.html" target="_blank">https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-s3-bucket.html</a href>"
 
-!!! question "Are there other s3 configurations you would want to enforce?  Are there other AWS native ways to enforce some of those controls?"
+## Finished!
 
+Congratulations on completing this workshop! This is the workshop's permanent home, so feel free to revisit as often as you'd like.
+
+
+
+##  Continuing On
+
+The workshop is intended to give you an idea of how to start your own Security
 

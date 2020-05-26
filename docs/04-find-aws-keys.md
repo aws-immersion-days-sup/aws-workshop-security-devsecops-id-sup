@@ -18,7 +18,4 @@ Unfortunately, not all code committed into a source repository will be free of s
 3.	Come back to the DevSecOps pipeline and watch it through the stages again.
 
 
-
-!!! question "Can you use IAM roles instead?"
-
-
+Now you can proceed to the <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup/blob/master/docs/05-missing-s3-confg.md" target="_blank">next module</a>.

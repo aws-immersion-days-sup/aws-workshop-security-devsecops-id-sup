@@ -36,6 +36,4 @@ In this module, as a Security engineer, you will add a lambda function that will
     6.	Select Save the newly-edited pipeline. You must check the “No resource updates needed for this source action change” option on the pipeline save pop-up window. 
 11.	Your new Lambda function is now integrated into your pipeline.
 
-**Proceed to the next module to test your Lambda function.**
-
-
+**Proceed to the <a href="https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup/blob/master/docs/04-find-aws-keys.md" target="_blank">next module</a> to test your Lambda function.**
