@@ -4,7 +4,7 @@ This hands workshop will walk you through various common scenarios looking from 
 
 ## Start the workshop:
 
-Visit the docs folder to get started: [https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup/tree/master/docs](https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup/tree/master/docs)
+Visit the docs folder to get started: [https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup/tree/master/docs/01-environment-setup.md](https://github.com/aws-immersion-days-sup/aws-workshop-security-devsecops-id-sup/tree/master/docs/01-environment-setup.md)
 
 ## License
 
